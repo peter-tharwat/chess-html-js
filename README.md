@@ -7,17 +7,14 @@ You Can Create a piece of chess board by select the color at the end of page
 then select the box that you want to put it on 
 and from keyboard press the first letter of piece
 
---------------
+## Shortcuts
 
 - k => King
 - Q => Queen
 - R => Rook
 - B => Bishop
 - N => Knight
-- P => Pawn
-
---------------
-
+- P => Pawn 
 
 
 ## License
