@@ -1,6 +1,6 @@
 #CHESS HTML JS 
 
--------------
+[![N|Solid](https://github.com/peter-tharwat/chess-html-js/blob/master/images/nb.png)]
 
 ## How To Create A Piece
 You Can Create a piece of chess board by select the color at the end of page
@@ -15,7 +15,10 @@ and from keyboard press the first letter of piece
 - B => Bishop
 - N => Knight
 - P => Pawn
+
 --------------
+
+
 
 ## License
 MIT
