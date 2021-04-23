@@ -9,13 +9,13 @@ and from keyboard press the first letter of piece
 
 ## Shortcuts
 
-- k => King
-- Q => Queen
-- R => Rook
-- B => Bishop
-- N => Knight
-- P => Pawn 
-
+- "k" => King
+- "Q" => Queen
+- "R" => Rook
+- "B" => Bishop
+- "N" => Knight
+- "P" => Pawn 
+- " " => Remove Piece ( Space )
 
 ## License
 MIT
